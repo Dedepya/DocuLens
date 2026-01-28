@@ -1,5 +1,4 @@
-
-How to Execute:
+How to Execute DocuLens:
 
 1. Paste your OpenAI Key in the .env file.
 2. Open Terminal in the doculens root folder.
