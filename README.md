@@ -7,5 +7,5 @@ How to Execute DocuLens:
 4. Test:
     - Go to http://localhost:8000/docs.
     - Open POST /analyze.
-    - Upload a PDF resume and paste a Job Description.
+    - Upload a PDF resume & paste a Job Description.
     - Click Execute to see your AI-generated gaps and rewrites.
